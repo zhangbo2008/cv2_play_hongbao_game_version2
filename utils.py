@@ -77,9 +77,9 @@ def pipei_after_erzhihua(all,little,threshold):
     img2=cv2.threshold(img2, 200, 255, cv2.THRESH_BINARY )[1]# 200 ,255表示大于200的都变成255. 小于200的都变成黑色也就是0.
     template = cv2.imread(little, 0)
     template=cv2.threshold(template, 200, 255, cv2.THRESH_BINARY )[1]
-    cv2.imwrite('bug222222.png',img2)
-    cv2.imwrite('bug1111111111.png',template)
-    cv2.waitKey()
+    # cv2.imwrite('bug222222.png',img2)
+    # cv2.imwrite('bug1111111111.png',template)
+    # cv2.waitKey()
 
 
     # img=img.astype('float32')

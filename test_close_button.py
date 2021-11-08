@@ -11,7 +11,7 @@
 # os.system('adb pull /sdcard/screencap.png screencap.png')#这时手机的屏幕就保存到了项目的根目录下.
 
 import utils
-aaa=utils.pipei('screencap10.png','chazi.png',0.8)
+aaa=utils.pipei_after_erzhihua('screencap11.png','bugclose.png',0.8)
 # aaa=utils.pipei('screencap10.png','chazi2.png',0.8)
 # aaa=utils.pipei('screencap10.png','chazi3.png',0.8)
 

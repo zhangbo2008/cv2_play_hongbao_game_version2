@@ -1,5 +1,5 @@
 import time
-#=换个游戏.这个叫.爷爷的小农院.#还是这个游戏,这次我们换一个玩法. main2的玩法每天有次数限制.
+#=换个游戏.这个叫.yeyedexiaonongyuan.#还是这个游戏,这次我们换一个玩法. main2的玩法每天有次数限制.
 # 下面这个玩法,点击小狗上面的红包.然后看完视频,点开心收下. 这回红包的触发难度很大, 是一个动图.
 
 #=========解释一下为什么不 写一个点击跳过的.因为有一些广告特别坑,虽然写一个跳过,但是你一点他就开始说跳过就没法拿红包了.骗人的跳过.所以最稳的方法还是等他一直走完.
@@ -194,7 +194,7 @@ def play():
 
     import utils  # 因为叉子图片是黑白色基本,所以二值化可以提升准确率, 其他的不是黑白所以不要用.
     aaa = utils.pipei_after_erzhihua('screencap.png', 'bugclose.png', 0.8)
-    bbb = utils.pipei_after_erzhihua('screencap.png', 'bugclose.png', 0.8)
+    bbb = utils.pipei('screencap.png', 'bugclose.png', 0.8)
 
     # ============有时候叉子需要点2次.
     if aaa:

@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93dbc37-51f5-4665-80be-2d863a93d9c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bug1111111111.png" beforeDir="false" afterPath="$PROJECT_DIR$/bug1111111111.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bug222222.png" beforeDir="false" afterPath="$PROJECT_DIR$/bug222222.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fordebug.png" beforeDir="false" afterPath="$PROJECT_DIR$/fordebug.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main3.py" beforeDir="false" afterPath="$PROJECT_DIR$/main3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screencap.png" beforeDir="false" afterPath="$PROJECT_DIR$/screencap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_close_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_close_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,8 +160,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main3" />
-        <item itemvalue="Python.111" />
         <item itemvalue="Python.test_close_button" />
+        <item itemvalue="Python.111" />
         <item itemvalue="Python.获取手机截屏" />
         <item itemvalue="Python.main2" />
       </list>
@@ -176,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636167548260</updated>
       <workItem from="1636167550019" duration="30338000" />
-      <workItem from="1636297670033" duration="7800000" />
+      <workItem from="1636297670033" duration="9182000" />
     </task>
     <servers />
   </component>
@@ -192,22 +194,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1278" height="440" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1636190751779" />
-    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1636337636266">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1636338658405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1636337636266" />
-    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1636337636265">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1636338658405" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1636338658405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1636337636265" />
-    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1636337636265">
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1636338658405" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1636338658405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1636337636265" />
-    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1636337636265">
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1636338658405" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1636338658405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1636337636265" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1636338658405" />
     <state width="1237" height="176" key="GridCell.Tab.1.bottom" timestamp="1636254875850">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -264,8 +266,8 @@
     <SUITE FILE_PATH="coverage/untitled16$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1636246972552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1636328486305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1636191238506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$test_close_button.coverage" NAME="test_close_button Coverage Results" MODIFIED="1636337085260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1636337489799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$test_close_button.coverage" NAME="test_close_button Coverage Results" MODIFIED="1636338597167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1636338658400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$.coverage" NAME="获取手机截屏 Coverage Results" MODIFIED="1636336104517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$111.coverage" NAME="111 Coverage Results" MODIFIED="1636337424153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
