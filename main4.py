@@ -291,8 +291,10 @@ def play():
     bbb = utils.pipei('screencap.png', 'bugclose.png', 0.8)
     aaa2 = utils.pipei_after_erzhihua('screencap.png', 'bugclose2.png', 0.8)
     bbb2 = utils.pipei('screencap.png', 'bugclose2.png', 0.8)
+    aaa3 = utils.pipei_after_erzhihua('screencap.png', 'bugclose3.png', 0.8)
+    bbb3 = utils.pipei('screencap.png', 'bugclose3.png', 0.8)
     # ============有时候叉子需要点2次.
-    tmp = [aaa, aaa2, bbb, bbb2]
+    tmp = [aaa, aaa2, bbb, bbb2,aaa3,bbb3]
     for kkk in tmp:
         if kkk:
             point = (kkk[0] + kkk[2]) / 2, (kkk[1] + kkk[3]) / 2

@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93dbc37-51f5-4665-80be-2d863a93d9c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bugclose2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chouhaoli.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chouhaoli2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keng2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screencap15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugclose3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugclose4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugclose5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugclose6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chazi4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chazi5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/close_button5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shouxia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tongguanhongbao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tongguanhongbao2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiayiguan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fordebug.png" beforeDir="false" afterPath="$PROJECT_DIR$/fordebug.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main3.py" beforeDir="false" afterPath="$PROJECT_DIR$/main3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screencap.png" beforeDir="false" afterPath="$PROJECT_DIR$/screencap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_close_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/测试关闭按钮_close_button.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +57,7 @@
       <recent name="C:\Users\Administrator\PycharmProjects\untitled16" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main4">
+  <component name="RunManager" selected="Python.main5">
     <configuration name="获取手机截屏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled16" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,72 +72,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/获取手机截屏.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="测试关闭按钮_close_button (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled16" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试关闭按钮_close_button.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="测试关闭按钮_close_button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled16" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\untitled16\测试关闭按钮_close_button.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled16" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +102,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled16" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled16" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled16" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main4" />
-        <item itemvalue="Python.测试关闭按钮_close_button (1)" />
+        <item itemvalue="Python.main5" />
         <item itemvalue="Python.获取手机截屏" />
-        <item itemvalue="Python.main3" />
-        <item itemvalue="Python.测试关闭按钮_close_button" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.main4" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +191,7 @@
       <workItem from="1636167550019" duration="30338000" />
       <workItem from="1636297670033" duration="12831000" />
       <workItem from="1636943452779" duration="2430000" />
-      <workItem from="1637284890167" duration="3180000" />
+      <workItem from="1637284890167" duration="10949000" />
     </task>
     <servers />
   </component>
@@ -208,38 +215,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="135" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1637289910643" />
-    <state width="1237" height="128" key="GridCell.Tab.0.bottom" timestamp="1637291365903">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1637305870652">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="128" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637291365903" />
-    <state width="1237" height="128" key="GridCell.Tab.0.center" timestamp="1637291365903">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637305870652" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1637305870652">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="128" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637291365903" />
-    <state width="1237" height="128" key="GridCell.Tab.0.left" timestamp="1637291365903">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637305870652" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1637305870652">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="128" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637291365903" />
-    <state width="1237" height="128" key="GridCell.Tab.0.right" timestamp="1637291365903">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637305870652" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1637305870652">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="128" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637291365903" />
-    <state width="1237" height="176" key="GridCell.Tab.1.bottom" timestamp="1636254875850">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637305870652" />
+    <state width="1237" height="150" key="GridCell.Tab.1.bottom" timestamp="1637304557545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1636254875850" />
-    <state width="1237" height="176" key="GridCell.Tab.1.center" timestamp="1636254875850">
+    <state width="1237" height="150" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637304557545" />
+    <state width="1237" height="150" key="GridCell.Tab.1.center" timestamp="1637304557545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1636254875850" />
-    <state width="1237" height="176" key="GridCell.Tab.1.left" timestamp="1636254875850">
+    <state width="1237" height="150" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1637304557545" />
+    <state width="1237" height="150" key="GridCell.Tab.1.left" timestamp="1637304557545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1636254875850" />
-    <state width="1237" height="176" key="GridCell.Tab.1.right" timestamp="1636254875850">
+    <state width="1237" height="150" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1637304557545" />
+    <state width="1237" height="150" key="GridCell.Tab.1.right" timestamp="1637304557545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1636254875850" />
+    <state width="1237" height="150" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1637304557545" />
     <state x="324" y="198" width="669" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1637289829399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -275,20 +282,26 @@
         <watch expression="res" />
         <watch expression="cv2.threshold(img2, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[0]" />
         <watch expression="cv2.threshold(img2, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)" />
+        <watch expression="a" />
+        <watch expression="numbers" />
+        <watch expression="phonebook" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled16$main5.coverage" NAME="main5 Coverage Results" MODIFIED="1637305870646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$utils.coverage" NAME="utils Coverage Results" MODIFIED="1636209318944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$1.coverage" NAME="main Coverage Results" MODIFIED="1636204337546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1636246972552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1636328486305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1637291365891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$_close_button__1_.coverage" NAME="测试关闭按钮_close_button (1) Coverage Results" MODIFIED="1637290457385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$.coverage" NAME="获取手机截屏 Coverage Results" MODIFIED="1637304916037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1637303410787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$1.coverage" NAME="main Coverage Results" MODIFIED="1636204337546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1637294113117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1636191238506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$test_close_button.coverage" NAME="test_close_button Coverage Results" MODIFIED="1636338597167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1636339420097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$.coverage" NAME="获取手机截屏 Coverage Results" MODIFIED="1637289749792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled16$_close_button__1_.coverage" NAME="测试关闭按钮_close_button (1) Coverage Results" MODIFIED="1637290457385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled16$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1637304395397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled16$111.coverage" NAME="111 Coverage Results" MODIFIED="1636337424153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
