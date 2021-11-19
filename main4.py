@@ -1,3 +1,6 @@
+# 继续优化爷爷的小农院
+
+
 import time
 #=换个游戏.这个叫.yeyedexiaonongyuan.#还是这个游戏,这次我们换一个玩法. main2的玩法每天有次数限制.
 # 下面这个玩法,点击小狗上面的红包.然后看完视频,点开心收下. 这回红包的触发难度很大, 是一个动图.
@@ -125,6 +128,53 @@ def play():
     import time
     time.sleep(20)
 
+
+
+#===========点击叉子之前有时候还有坑1!!!!!!!!!!!!!!!!!!!!!!
+    print("判断坑1")
+    import os
+    # ========================上来获取图片
+    os.system('adb shell /system/bin/screencap -p /sdcard/screencap.png')
+    # 把模拟器里面的文件或文件夹传到电脑上
+    os.system('adb pull /sdcard/screencap.png screencap.png')  # 这时手机的屏幕就保存到了项目的根目录下.
+
+    import utils  # 因为叉子图片是黑白色基本,所以二值化可以提升准确率, 其他的不是黑白所以不要用.#==========如果背景色是纯色的话,不二值化比较好.
+    aaa = utils.pipei_after_erzhihua('screencap.png', 'chouhaoli2.png', 0.8)
+    aaa2 = utils.pipei('screencap.png', 'chouhaoli2.png', 0.8)
+    if aaa or aaa2:
+        point = 525, 465
+        print(f"点击坐标{point}")
+        a = os.system('adb shell input tap ' + str(int(point[0])) + ' ' + str(int(point[1])))  # 点击指令
+
+
+
+    print("判断坑2")
+    import os
+    # ========================上来获取图片
+    os.system('adb shell /system/bin/screencap -p /sdcard/screencap.png')
+    # 把模拟器里面的文件或文件夹传到电脑上
+    os.system('adb pull /sdcard/screencap.png screencap.png')  # 这时手机的屏幕就保存到了项目的根目录下.
+
+    import utils  # 因为叉子图片是黑白色基本,所以二值化可以提升准确率, 其他的不是黑白所以不要用.#==========如果背景色是纯色的话,不二值化比较好.
+    aaa = utils.pipei_after_erzhihua('screencap.png', 'keng2.png', 0.8)
+    aaa2 = utils.pipei('screencap.png', 'keng2.png', 0.8)
+    if aaa or aaa2:
+        point = 527, 2207
+        print(f"点击坐标{point}")
+        a = os.system('adb shell input tap ' + str(int(point[0])) + ' ' + str(int(point[1])))  # 点击指令
+
+
+
+
+
+
+
+
+
+
+
+
+
     flag=1
     while flag==1:
         print("下面开始尝试点击叉子.")
@@ -177,7 +227,7 @@ def play():
         time.sleep(sleeptime)  # 每2秒尝试一次
         time.sleep(sleeptime)  # 每2秒尝试一次
 
-    time.sleep(4)  # 每2秒尝试一次
+    # time.sleep(4)  # 每2秒尝试一次
 
 
 
@@ -239,19 +289,18 @@ def play():
     import utils  # 因为叉子图片是黑白色基本,所以二值化可以提升准确率, 其他的不是黑白所以不要用.
     aaa = utils.pipei_after_erzhihua('screencap.png', 'bugclose.png', 0.8)
     bbb = utils.pipei('screencap.png', 'bugclose.png', 0.8)
-
+    aaa2 = utils.pipei_after_erzhihua('screencap.png', 'bugclose2.png', 0.8)
+    bbb2 = utils.pipei('screencap.png', 'bugclose2.png', 0.8)
     # ============有时候叉子需要点2次.
-    if aaa:
-        point = (aaa[0] + aaa[2]) / 2, (aaa[1] + aaa[3]) / 2
+    tmp = [aaa, aaa2, bbb, bbb2]
+    for kkk in tmp:
+        if kkk:
+            point = (kkk[0] + kkk[2]) / 2, (kkk[1] + kkk[3]) / 2
+            print(f"点击坐标{point}")
+            a = os.system('adb shell input tap ' + str(int(point[0])) + ' ' + str(int(point[1])))  # 点击指令
 
-        print(f"点击坐标{point}")
-        a = os.system('adb shell input tap ' + str(int(point[0])) + ' ' + str(int(point[1])))  # 点击指令
-    elif bbb:
-        point = (bbb[0] + bbb[2]) / 2, (bbb[1] + bbb[3]) / 2
 
-        print(f"点击坐标{point}")
-        a = os.system('adb shell input tap ' + str(int(point[0])) + ' ' + str(int(point[1])))  # 点击指令
-        import time
+    import time
     time.sleep(sleeptime)  # 每2秒尝试一次
 while 1:#=============无限玩下去,测bug!!!!!!!!!!!!!
     play()
